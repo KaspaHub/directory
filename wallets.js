@@ -6,8 +6,17 @@ export const users = [
 	domain: "kas-hub.kas"
 },
 {
+	x: "KaspaSilver",
+	wallet: "kaspa:qp408svlz585vyvj50yaljm8xdxrkcmmed8vxlx0wf0cl5wpt3vzyh74xs46e",
+	domain: "kaspasilver.kas"
+},
+{
 	x: "Pumpolinsky",
 	wallet: "kaspa:qr408tqlvgc75skyp3zztqrhkrdg2584qkzg30t9kt2nllryzzwxqx5t83q5w",
 	domain: "pumpolinsky.kas"
+},
+{
+	x: "IzioDev",
+	wallet: "kaspa:qpmwdyku2fcwzcahdzs86d0zz606vy7y6qxgrpkjxdz5xz8z6af9w2u6w0f3t",
 }
 ];
