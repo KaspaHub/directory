@@ -1,8 +1,8 @@
 # Kaspa Data Directory
 A public, open-source list of structured Kaspa data designed for integration across apps and projects.
 
-- https://kaspahub.github.io/directory/users.js
-- https://kaspahub.github.io/directory/resources.js
+- https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/users.js
+- https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/resources.js
 - wallets, exchanges etc. (coming soon)
 
 ## Purpose
