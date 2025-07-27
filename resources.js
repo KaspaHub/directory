@@ -1,4 +1,4 @@
-export const users = [
+export const resources = [
 {
   name: "PHANTOM GHOSTDAG Whitepaper",
   officialSite: "https://eprint.iacr.org/2018/104.pdf",
