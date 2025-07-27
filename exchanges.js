@@ -1,421 +1,421 @@
 export const exchanges = [
 {
-item: "Kraken",
+title: "Kraken",
 link: "https://www.kraken.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kraken.webp"
 },
 {
-item: "Uphold",
+title: "Uphold",
 link: "https://uphold.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/uphold.webp"
 },
 {
-item: "Topper",
+title: "Topper",
 link: "https://www.topperpay.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/topper.webp"
 },
 {
-item: "Bitpanda",
+title: "Bitpanda",
 link: "https://www.bitpanda.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/bitpanda.webp"
 },
 {
-item: "Bybit",
+title: "Bybit",
 link: "https://www.bybit.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/bybit.webp"
 },
 {
-item: "Gate",
+title: "Gate",
 link: "https://www.gate.io",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/gate.webp"
 },
 {
-item: "KuCoin",
+title: "KuCoin",
 link: "https://www.kucoin.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kucoin.webp"
 },
 {
-item: "Bitget",
+title: "Bitget",
 link: "https://www.bitget.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/bitget.webp"
 },
 {
-item: "MEXC",
+title: "MEXC",
 link: "https://www.mexc.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/mexc.webp"
 },
 {
-item: "BingX",
+title: "BingX",
 link: "https://bingx.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/bingx.webp"
 },
 {
-item: "CoinEx",
+title: "CoinEx",
 link: "https://www.coinex.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/coinex.webp"
 },
 {
-item: "BTCC",
+title: "BTCC",
 link: "https://www.btcc.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/btcc.webp"
 },
 {
-item: "CoinSpot",
+title: "CoinSpot",
 link: "https://www.coinspot.com.au",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/coinspot.webp"
 },
 {
-item: "JuCoin",
+title: "JuCoin",
 link: "https://www.jucoin.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/jucoin.webp"
 },
 {
-item: "CEX.IO",
+title: "CEX.IO",
 link: "https://www.cex.io",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/cexio.webp"
 },
 {
-item: "Simplex",
+title: "Simplex",
 link: "https://www.simplex.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/simplex.webp"
 },
 {
-item: "Coinone",
+title: "Coinone",
 link: "https://coinone.co.kr",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/coinone.webp"
 },
 {
-item: "Poloniex",
+title: "Poloniex",
 link: "https://www.poloniex.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/poloniex.webp"
 },
 {
-item: "Bit2Me",
+title: "Bit2Me",
 link: "https://pro.bit2me.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/bit2me.webp"
 },
 {
-item: "Changelly",
+title: "Changelly",
 link: "https://changelly.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/changelly.webp"
 },
 {
-item: "Paxful",
+title: "Paxful",
 link: "https://paxful.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/paxful.webp"
 },
 {
-item: "AltcoinTrader",
+title: "AltcoinTrader",
 link: "https://www.altcointrader.co.za",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/altcointrader.webp"
 },
 {
-item: "Caleb & Brown",
+title: "Caleb & Brown",
 link: "https://calebandbrown.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/calebandbrown.webp"
 },
 {
-item: "CoinW",
+title: "CoinW",
 link: "https://www.coinw.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/coinw.webp"
 },
 {
-item: "ChangeNOW",
+title: "ChangeNOW",
 link: "https://changenow.io",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/changenow.webp"
 },
 {
-item: "ChangeHero",
+title: "ChangeHero",
 link: "https://changehero.io",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/changehero.webp"
 },
 {
-item: "DigiFinex",
+title: "DigiFinex",
 link: "https://www.digifinex.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/digifinex.webp"
 },
 {
-item: "Coinstash",
+title: "Coinstash",
 link: "https://coinstash.com.au",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/coinstash.webp"
 },
 {
-item: "Hotcoin",
+title: "Hotcoin",
 link: "https://www.hotcoin.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/hotcoin.webp"
 },
 {
-item: "Dex-Trade",
+title: "Dex-Trade",
 link: "https://dex-trade.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/dextrade.webp"
 },
 {
-item: "Coinmerce",
+title: "Coinmerce",
 link: "https://coinmerce.io",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/coinmerce.webp"
 },
 {
-item: "Guardarian",
+title: "Guardarian",
 link: "https://guardarian.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/guardarian.webp"
 },
 {
-item: "SwapSpace",
+title: "SwapSpace",
 link: "https://swapspace.co",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/swapspace.webp"
 },
 {
-item: "Digital Surge",
+title: "Digital Surge",
 link: "https://digitalsurge.com.au",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/digitalsurge.webp"
 },
 {
-item: "SimpleSwap",
+title: "SimpleSwap",
 link: "https://simpleswap.io",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/simpleswap.webp"
 },
 {
-item: "XT",
+title: "XT",
 link: "https://www.xt.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/xt.webp"
 },
 {
-item: "LCX",
+title: "LCX",
 link: "https://www.lcx.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/lcx.webp"
 },
 {
-item: "AscendEX",
+title: "AscendEX",
 link: "https://www.ascendex.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/ascendex.webp"
 },
 {
-item: "Bitvavo",
+title: "Bitvavo",
 link: "https://www.bitvavo.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/bitvavo.webp"
 },
 {
-item: "BTSE",
+title: "BTSE",
 link: "https://www.btse.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/btse.webp"
 },
 {
-item: "StealthEX",
+title: "StealthEX",
 link: "https://stealthex.io",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/stealthex.webp"
 },
 {
-item: "Nexo",
+title: "Nexo",
 link: "https://nexo.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/nexo.webp"
 },
 {
-item: "ProBit Global",
+title: "ProBit Global",
 link: "https://www.probit.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/probit.webp"
 },
 {
-item: "CoinDCX",
+title: "CoinDCX",
 link: "https://coindcx.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/coindcx.webp"
 },
 {
-item: "Swyftx",
+title: "Swyftx",
 link: "https://swyftx.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/swyftx.webp"
 },
 {
-item: "Kriptomat",
+title: "Kriptomat",
 link: "https://kriptomat.io",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kriptomat.webp"
 },
 {
-item: "Godex",
+title: "Godex",
 link: "https://godex.io",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/godex.webp"
 },
 {
-item: "Bitrue",
+title: "Bitrue",
 link: "https://www.bitrue.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/bitrue.webp"
 },
 {
-item: "NovaDAX",
+title: "NovaDAX",
 link: "https://www.novadax.com.br",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/novadax.webp"
 },
 {
-item: "Young Platform",
+title: "Young Platform",
 link: "https://youngplatform.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/youngplatform.webp"
 },
 {
-item: "Reku",
+title: "Reku",
 link: "https://reku.id",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/reku.webp"
 },
 {
-item: "Exolix",
+title: "Exolix",
 link: "https://exolix.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/exolix.webp"
 },
 {
-item: "Quickex",
+title: "Quickex",
 link: "https://quickex.io",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/quickex.webp"
 },
 {
-item: "Biconomy",
+title: "Biconomy",
 link: "https://www.biconomy.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/biconomy.webp"
 },
 {
-item: "Tapbit",
+title: "Tapbit",
 link: "https://www.tapbit.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/tapbit.webp"
 },
 {
-item: "Phemex",
+title: "Phemex",
 link: "https://phemex.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/phemex.webp"
 },
 {
-item: "Pionex",
+title: "Pionex",
 link: "https://www.pionex.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/pionex.webp"
 },
 {
-item: "Swapzone",
+title: "Swapzone",
 link: "https://swapzone.io",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/swapzone.webp"
 },
 {
-item: "CoinRabbit",
+title: "CoinRabbit",
 link: "https://coinrabbit.io",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/coinrabbit.webp"
 },
 {
-item: "RocketX",
+title: "RocketX",
 link: "https://www.rocketx.exchange",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/rocketx.webp"
 },
 {
-item: "Coinstore",
+title: "Coinstore",
 link: "https://www.coinstore.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/coinstore.webp"
 },
 {
-item: "BYDFi",
+title: "BYDFi",
 link: "https://www.bydfi.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/bydfi.webp"
 },
 {
-item: "Swapswop",
+title: "Swapswop",
 link: "https://swapswop.io",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/swapswop.webp"
 },
 {
-item: "LetsExchange",
+title: "LetsExchange",
 link: "https://letsexchange.io",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/letsexchange.webp"
 },
 {
-item: "KCEX",
+title: "KCEX",
 link: "https://www.kcex.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kcex.webp"
 },
 {
-item: "Xeggex",
+title: "Xeggex",
 link: "https://xeggex.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/xeggex.webp"
 },
 {
-item: "HiBT",
+title: "HiBT",
 link: "https://hibt.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/hibt.webp"
 },
 {
-item: "Zedxion",
+title: "Zedxion",
 link: "https://www.zedxion.io",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/zedxion.webp"
 },
 {
-item: "Bittime",
+title: "Bittime",
 link: "https://www.bittime.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/bittime.webp"
 },
 {
-item: "Neverless",
+title: "Neverless",
 link: "https://neverless.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/neverless.webp"
 },
 {
-item: "SuperEx",
+title: "SuperEx",
 link: "https://www.superex.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/superex.webp"
 },
 {
-item: "Houdini Swap",
+title: "Houdini Swap",
 link: "https://houdiniswap.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/houdiniswap.webp"
 },
 {
-item: "BITmarkets",
+title: "BITmarkets",
 link: "https://bitmarkets.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/bitmarkets.webp"
 },
 {
-item: "Onramp Money",
+title: "Onramp Money",
 link: "https://onramp.money",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/onrampmoney.webp"
 },
 {
-item: "CoinoSwap",
+title: "CoinoSwap",
 link: "https://www.coinoswap.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/coinoswap.webp"
 },
 {
-item: "Nanswap",
+title: "Nanswap",
 link: "https://nanswap.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/nanswap.webp"
 },
 {
-item: "Exchang.io",
+title: "Exchang.io",
 link: "https://exchang.io",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/exchang.webp"
 },
 {
-item: "NonKYC",
+title: "NonKYC",
 link: "https://nonkyc.io",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/nonkyc.webp"
 },
 {
-item: "Wirex",
+title: "Wirex",
 link: "https://wirexapp.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/wirex.webp"
 },
 {
-item: "WEEX",
+title: "WEEX",
 link: "https://www.weex.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/weex.webp"
 },
 {
-item: "Exmo",
+title: "Exmo",
 link: "https://exmo.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/exmo.webp"
 },
 {
-item: "LBank",
+title: "LBank",
 link: "https://www.lbank.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/lbank.webp"
 },
 {
-item: "BigONE",
+title: "BigONE",
 link: "https://www.bigone.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/bigone.webp"
 },
 {
-item: "BitMart",
+title: "BitMart",
 link: "https://www.bitmart.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/bitmart.webp"
 }
