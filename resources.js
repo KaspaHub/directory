@@ -1,21 +1,21 @@
 export const resources = [
 {
 	name: "PHANTOM GHOSTDAG Whitepaper",
-	officialSite: "https://eprint.iacr.org/2018/104.pdf",
+	link: "https://eprint.iacr.org/2018/104.pdf",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 	}
 },
 {
 	name: "DAG KNIGHT Whitepaper",
-	officialSite: "https://eprint.iacr.org/2022/1494.pdf",
+	link: "https://eprint.iacr.org/2022/1494.pdf",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 	}
 },
 {
 	name: "Kaspa.org",
-	officialSite: "https://kaspa.org",
+	link: "https://kaspa.org",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 		articles: true,
@@ -24,7 +24,7 @@ export const resources = [
 },
 {
 	name: "Kaspa.com",
-	officialSite: "https://kaspa.com/learn-kaspa",
+	link: "https://kaspa.com/learn-kaspa",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspacom.webp",
 	features: {
 		articles: true
@@ -32,7 +32,7 @@ export const resources = [
 },
 {
 	name: "KASmedia",
-	officialSite: "https://www.kasmedia.com",
+	link: "https://www.kasmedia.com",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasmedia.webp",
 	features: {
 		articles: true
@@ -40,7 +40,7 @@ export const resources = [
 },
 {
 	name: "Kaspa Ecosystem Foundation",
-	officialSite: "https://www.kaspafoundation.org",
+	link: "https://www.kaspafoundation.org",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kef.webp",
 	features: {
 		videos: true
@@ -48,7 +48,7 @@ export const resources = [
 },
 {
 	name: "Kaspa Industrial Initiative",
-	officialSite: "https://kaspa-kii.org",
+	link: "https://kaspa-kii.org",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kii.webp",
 	features: {
 		videos: true
@@ -56,21 +56,21 @@ export const resources = [
 },
 {
 	name: "Kaspa Research",
-	officialSite: "https://research.kas.pa",
+	link: "https://research.kas.pa",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasparesearch.webp",
 	features: {
 	}
 },
 {
 	name: "Kaspa Wiki",
-	officialSite: "https://wiki.kaspa.org",
+	link: "https://wiki.kaspa.org",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspawiki.webp",
 	features: {
 	}
 },
 {
 	name: "Yonatan Sompolinsky Medium",
-	officialSite: "https://hashdag.medium.com",
+	link: "https://hashdag.medium.com",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp",
 	features: {
 		articles: true
@@ -78,7 +78,7 @@ export const resources = [
 },
 {
 	name: "Shai Wyborski Medium",
-	officialSite: "https://medium.com/@shai.wyborski",
+	link: "https://medium.com/@shai.wyborski",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp",
 	features: {
 		articles: true
@@ -86,7 +86,7 @@ export const resources = [
 },
 {
 	name: "Michael Sutton Medium",
-	officialSite: "https://medium.com/@michaelsuttonil",
+	link: "https://medium.com/@michaelsuttonil",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp",
 	features: {
 		articles: true
@@ -94,7 +94,7 @@ export const resources = [
 },
 {
 	name: "Aviv Zohar Medium",
-	officialSite: "https://medium.com/@avivzohar",
+	link: "https://medium.com/@avivzohar",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp",
 	features: {
 		articles: true
@@ -102,7 +102,7 @@ export const resources = [
 },
 {
 	name: "Ori Newman Medium",
-	officialSite: "https://someone235.medium.com/",
+	link: "https://someone235.medium.com/",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp",
 	features: {
 		articles: true
@@ -110,7 +110,7 @@ export const resources = [
 },
 {
 	name: "coderofstuff Medium",
-	officialSite: "https://medium.com/@coderofstuff",
+	link: "https://medium.com/@coderofstuff",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp",
 	features: {
 		articles: true
@@ -118,14 +118,14 @@ export const resources = [
 },
 {
 	name: "Kaspa Core R&D (public) Telegram",
-	officialSite: "https://t.me/kasparnd",
+	link: "https://t.me/kasparnd",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/telegram.webp",
 	features: {
 	}
 },
 {
 	name: "KaspaSilver",
-	officialSite: "https://linktr.ee/KaspaSilver",
+	link: "https://linktr.ee/KaspaSilver",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspasilver.webp",
 	features: {
 		articles: true,
@@ -134,21 +134,21 @@ export const resources = [
 },
 {
 		name: "The Book of Kaspa",
-		officialSite: "https://www.amazon.com/Book-Kaspa-Realizing-Nakamoto-Dream-ebook/dp/B0CCVTFM2N",
+		link: "https://www.amazon.com/Book-Kaspa-Realizing-Nakamoto-Dream-ebook/dp/B0CCVTFM2N",
 		logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 		features: {
 		}
 },
 {
 	name: "KaspArchive",
-	officialSite: "https://kasparchive.com",
+	link: "https://kasparchive.com",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 	}
 },
 {
 	name: "Kaspa Daily",
-	officialSite: "https://kaspadaily.com/",
+	link: "https://kaspadaily.com/",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspadaily.webp",
 	features: {
 		articles: true
@@ -156,7 +156,7 @@ export const resources = [
 },
 {
 	name: "Kasbun",
-	officialSite: "https://kasbun.vercel.app/",
+	link: "https://kasbun.vercel.app/",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasbun.webp",
 	features: {
 		articles: true
@@ -164,21 +164,21 @@ export const resources = [
 },
 {
 	name: "Mineable Money",
-	officialSite: "https://mineable.money",
+	link: "https://mineable.money",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/mineablemoney.webp",
 	features: {
 	}
 },
 {
 	name: "KasBay",
-	officialSite: "https://kasbay.org",
+	link: "https://kasbay.org",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasbay.webp",
 	features: {
 	}
 },
 {
 	name: "Burno",
-	officialSite: "https://burno.xyz/",
+	link: "https://burno.xyz/",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/burno.webp",
 	features: {
 		articles: true
@@ -186,7 +186,7 @@ export const resources = [
 },
 {
 	name: "Kaspa FAQ",
-	officialSite: "https://www.kaspafaq.com/",
+	link: "https://www.kaspafaq.com/",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspafaq.webp",
 	features: {
 		articles: true
@@ -194,7 +194,7 @@ export const resources = [
 },
 {
 	name: "The Crypto Chronicles of Yonatan Sompolinsky",
-	officialSite: "https://nrcrowningshield.medium.com/the-crypto-chronicles-of-yonatan-sompolinsky-a-retelling-by-captain-sats-452c73077388",
+	link: "https://nrcrowningshield.medium.com/the-crypto-chronicles-of-yonatan-sompolinsky-a-retelling-by-captain-sats-452c73077388",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp",
 	features: {
 		articles: true
@@ -202,7 +202,7 @@ export const resources = [
 },
 {
 	name: "Kaspa Hub - Articles",
-	officialSite: "https://kaspahub.org/articles/",
+	link: "https://kaspahub.org/articles/",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/KaspaHub@latest/assets/kaspahub.jpg",
 	features: {
 		articles: true
@@ -210,7 +210,7 @@ export const resources = [
 },
 {
 	name: "KaspHub",
-	officialSite: "https://kasphub.com",
+	link: "https://kasphub.com",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 		articles: true,
@@ -219,7 +219,7 @@ export const resources = [
 },
 {
 	name: "Kaspa Explorer",
-	officialSite: "https://explorer.kaspa.org",
+	link: "https://explorer.kaspa.org",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspaexplorer.webp",
 	features: {
 		blockExplorer: true
@@ -227,7 +227,7 @@ export const resources = [
 },
 {
 	name: "Kas.fyi",
-	officialSite: "https://kas.fyi",
+	link: "https://kas.fyi",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasfyi.webp",
 	features: {
 		analytics: true,
@@ -236,7 +236,7 @@ export const resources = [
 },
 {
 	name: "Kaspalytics",
-	officialSite: "https://www.kaspalytics.com",
+	link: "https://www.kaspalytics.com",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 		analytics: true,
@@ -245,7 +245,7 @@ export const resources = [
 },
 {
 	name: "Kaspa NG",
-	officialSite: "https://kaspa-ng.org",
+	link: "https://kaspa-ng.org",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspang.webp",
 	features: {
 		visualizer: true
@@ -253,7 +253,7 @@ export const resources = [
 },
 {
 	name: "KRC-20.org",
-	officialSite: "https://krc-20.org",
+	link: "https://krc-20.org",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 		analytics: true,
@@ -261,7 +261,7 @@ export const resources = [
 },
 {
 	name: "KatScan",
-	officialSite: "https://katscan.xyz",
+	link: "https://katscan.xyz",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/katscan.webp",
 	features: {
 		analytics: true,
@@ -270,7 +270,7 @@ export const resources = [
 },
 {
 	name: "Kaspa Node Map",
-	officialSite: "https://nodes.kaspa.ws",
+	link: "https://nodes.kaspa.ws",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 		analytics: true,
@@ -279,7 +279,7 @@ export const resources = [
 },
 {
 	name: "Kaspa Globe",
-	officialSite: "https://kaspaglo.be",
+	link: "https://kaspaglo.be",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspaglobe.webp",
 	features: {
 		analytics: true,
@@ -288,7 +288,7 @@ export const resources = [
 },
 {
 	name: "Kaspa Network Hashrate",
-	officialSite: "https://hashrate.kaspa.ws/",
+	link: "https://hashrate.kaspa.ws/",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 		analytics: true,
@@ -297,7 +297,7 @@ export const resources = [
 },
 {
 	name: "Kasunder",
-	officialSite: "https://kasunder.com",
+	link: "https://kasunder.com",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasunder.webp",
 	features: {
 		analytics: true,
@@ -306,7 +306,7 @@ export const resources = [
 },
 {
 	name: "Kaspa Graph Inspector",
-	officialSite: "https://kgi.kaspad.net",
+	link: "https://kgi.kaspad.net",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 		visualizer: true
@@ -314,7 +314,7 @@ export const resources = [
 },
 {
 	name: "KasNodes",
-	officialSite: "https://kasnodes.com",
+	link: "https://kasnodes.com",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 		analytics: true
@@ -322,7 +322,7 @@ export const resources = [
 },
 {
 	name: "Kaspa Insights",
-	officialSite: "https://www.kaspainsights.com",
+	link: "https://www.kaspainsights.com",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspainsights.webp",
 	features: {
 		analytics: true
@@ -330,7 +330,7 @@ export const resources = [
 },
 {
 	name: "Kaspa Rainbow Chart",
-	officialSite: "https://www.kasparainbowchart.com",
+	link: "https://www.kasparainbowchart.com",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasparainbowchart.webp",
 	features: {
 		analytics: true,
@@ -339,7 +339,7 @@ export const resources = [
 },
 {
 	name: "KasMap",
-	officialSite: "https://kasmap.xyz/",
+	link: "https://kasmap.xyz/",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 		visualizer: true
@@ -347,7 +347,7 @@ export const resources = [
 },
 {
 	name: "Kasplore",
-	officialSite: "https://www.kasplore.com",
+	link: "https://www.kasplore.com",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 		blockExplorer: true,
@@ -356,7 +356,7 @@ export const resources = [
 },
 {
 	name: "Look into Kaspa",
-	officialSite: "https://www.lookintokaspa.com",
+	link: "https://www.lookintokaspa.com",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 		analytics: true
@@ -364,7 +364,7 @@ export const resources = [
 },
 {
 	name: "KaspaWave",
-	officialSite: "https://kaspawave.com",
+	link: "https://kaspawave.com",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 		analytics: true
@@ -372,7 +372,7 @@ export const resources = [
 },
 {
 	name: "KasView",
-	officialSite: "https://kasview.netlify.app",
+	link: "https://kasview.netlify.app",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 		analytics: true
@@ -380,21 +380,21 @@ export const resources = [
 },
 {
 	name: "Kaspa vs. Bitcoin Miner Revenue Calculator",
-	officialSite: "https://cryptoodie.github.io/KASPA-VS.-BITCOIN-MINER-REVENUE-/",
+	link: "https://cryptoodie.github.io/KASPA-VS.-BITCOIN-MINER-REVENUE-/",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 	}
 },
 {
 	name: "Kaspa Breakeven Calculator",
-	officialSite: "https://kas-breakeven-calc.vercel.app",
+	link: "https://kas-breakeven-calc.vercel.app",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 	}
 },
 {
 	name: "Kas Music 3D Visualizer",
-	officialSite: "https://kas-music.web.app",
+	link: "https://kas-music.web.app",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 		visualizer: true
@@ -402,7 +402,7 @@ export const resources = [
 },
 {
 	name: "Kaspa 10 BPS 3D Visualizer",
-	officialSite: "https://kaspavisualizer.com",
+	link: "https://kaspavisualizer.com",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 		visualizer: true
@@ -410,7 +410,7 @@ export const resources = [
 },
 {
 	name: "Kaspa GHOSTDAG Visualizer",
-	officialSite: "https://kaspa-gdpv.net",
+	link: "https://kaspa-gdpv.net",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 		visualizer: true
@@ -418,7 +418,7 @@ export const resources = [
 },
 {
 	name: "Kaspaspeed",
-	officialSite: "https://kaspaspeed.com/",
+	link: "https://kaspaspeed.com/",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 		visualizer: true
@@ -426,7 +426,7 @@ export const resources = [
 },
 {
 	name: "Kaspa Network Visualizer",
-	officialSite: "https://macmachi.github.io/kaspa-network-visualizer",
+	link: "https://macmachi.github.io/kaspa-network-visualizer",
 	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
 	features: {
 		visualizer: true
