@@ -201,9 +201,9 @@ export const resources = [
 	}
 },
 {
-	name: "Kaspa Hub - Articles",
+	name: "Kaspa Hub",
 	link: "https://kaspahub.org/articles/",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/KaspaHub@latest/assets/kaspahub.jpg",
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspahub.webp",
 	features: {
 		articles: true
 	}
