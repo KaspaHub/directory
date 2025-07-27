@@ -17,5 +17,10 @@ export const users = [
 {
 	x: "IzioDev",
 	wallet: "kaspa:qpmwdyku2fcwzcahdzs86d0zz606vy7y6qxgrpkjxdz5xz8z6af9w2u6w0f3t",
+},
+{
+	x: "coinathlete",
+	wallet: "kaspa:qq6vraj894yeps2xltuzjllhdj85fsc5wfs4wz53hc4e4v0yhvtcx7s6e4fvr",
+	domain: "coinathlete.kas"
 }
 ];
