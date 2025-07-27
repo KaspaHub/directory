@@ -133,11 +133,11 @@ export const resources = [
 	}
 },
 {
-		name: "The Book of Kaspa",
-		link: "https://www.amazon.com/Book-Kaspa-Realizing-Nakamoto-Dream-ebook/dp/B0CCVTFM2N",
-		logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-		features: {
-		}
+	name: "The Book of Kaspa",
+	link: "https://www.amazon.com/Book-Kaspa-Realizing-Nakamoto-Dream-ebook/dp/B0CCVTFM2N",
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
+	features: {
+	}
 },
 {
 	name: "KaspArchive",
