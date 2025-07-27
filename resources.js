@@ -1,435 +1,267 @@
 export const resources = [
 {
-	name: "PHANTOM GHOSTDAG Whitepaper",
+	item: "PHANTOM GHOSTDAG Whitepaper",
 	link: "https://eprint.iacr.org/2018/104.pdf",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "DAG KNIGHT Whitepaper",
+	item: "DAG KNIGHT Whitepaper",
 	link: "https://eprint.iacr.org/2022/1494.pdf",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "Kaspa.org",
+	item: "Kaspa.org",
 	link: "https://kaspa.org",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-		articles: true,
-		videos: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "Kaspa.com",
+	item: "Kaspa.com",
 	link: "https://kaspa.com/learn-kaspa",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspacom.webp",
-	features: {
-		articles: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspacom.webp"
 },
 {
-	name: "KASmedia",
+	item: "KASmedia",
 	link: "https://www.kasmedia.com",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasmedia.webp",
-	features: {
-		articles: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasmedia.webp"
 },
 {
-	name: "Kaspa Ecosystem Foundation",
+	item: "Kaspa Ecosystem Foundation",
 	link: "https://www.kaspafoundation.org",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kef.webp",
-	features: {
-		videos: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kef.webp"
 },
 {
-	name: "Kaspa Industrial Initiative",
+	item: "Kaspa Industrial Initiative",
 	link: "https://kaspa-kii.org",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kii.webp",
-	features: {
-		videos: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kii.webp"
 },
 {
-	name: "Kaspa Research",
+	item: "Kaspa Research",
 	link: "https://research.kas.pa",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasparesearch.webp",
-	features: {
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasparesearch.webp"
 },
 {
-	name: "Kaspa Wiki",
+	item: "Kaspa Wiki",
 	link: "https://wiki.kaspa.org",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspawiki.webp",
-	features: {
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspawiki.webp"
 },
 {
-	name: "Yonatan Sompolinsky Medium",
+	item: "Yonatan Sompolinsky Medium",
 	link: "https://hashdag.medium.com",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp",
-	features: {
-		articles: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp"
 },
 {
-	name: "Shai Wyborski Medium",
+	item: "Shai Wyborski Medium",
 	link: "https://medium.com/@shai.wyborski",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp",
-	features: {
-		articles: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp"
 },
 {
-	name: "Michael Sutton Medium",
+	item: "Michael Sutton Medium",
 	link: "https://medium.com/@michaelsuttonil",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp",
-	features: {
-		articles: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp"
 },
 {
-	name: "Aviv Zohar Medium",
+	item: "Aviv Zohar Medium",
 	link: "https://medium.com/@avivzohar",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp",
-	features: {
-		articles: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp"
 },
 {
-	name: "Ori Newman Medium",
+	item: "Ori Newman Medium",
 	link: "https://someone235.medium.com/",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp",
-	features: {
-		articles: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp"
 },
 {
-	name: "coderofstuff Medium",
+	item: "coderofstuff Medium",
 	link: "https://medium.com/@coderofstuff",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp",
-	features: {
-		articles: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp"
 },
 {
-	name: "Kaspa Core R&D (public) Telegram",
+	item: "Kaspa Core R&D (public) Telegram",
 	link: "https://t.me/kasparnd",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/telegram.webp",
-	features: {
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/telegram.webp"
 },
 {
-	name: "KaspaSilver",
+	item: "KaspaSilver",
 	link: "https://linktr.ee/KaspaSilver",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspasilver.webp",
-	features: {
-		articles: true,
-		videos: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspasilver.webp"
 },
 {
-	name: "The Book of Kaspa",
+	item: "The Book of Kaspa",
 	link: "https://www.amazon.com/Book-Kaspa-Realizing-Nakamoto-Dream-ebook/dp/B0CCVTFM2N",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "KaspArchive",
+	item: "KaspArchive",
 	link: "https://kasparchive.com",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "Kaspa Daily",
+	item: "Kaspa Daily",
 	link: "https://kaspadaily.com/",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspadaily.webp",
-	features: {
-		articles: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspadaily.webp"
 },
 {
-	name: "Kasbun",
+	item: "Kasbun",
 	link: "https://kasbun.vercel.app/",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasbun.webp",
-	features: {
-		articles: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasbun.webp"
 },
 {
-	name: "Mineable Money",
+	item: "Mineable Money",
 	link: "https://mineable.money",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/mineablemoney.webp",
-	features: {
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/mineablemoney.webp"
 },
 {
-	name: "KasBay",
+	item: "KasBay",
 	link: "https://kasbay.org",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasbay.webp",
-	features: {
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasbay.webp"
 },
 {
-	name: "Burno",
+	item: "Burno",
 	link: "https://burno.xyz/",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/burno.webp",
-	features: {
-		articles: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/burno.webp"
 },
 {
-	name: "Kaspa FAQ",
+	item: "Kaspa FAQ",
 	link: "https://www.kaspafaq.com/",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspafaq.webp",
-	features: {
-		articles: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspafaq.webp"
 },
 {
-	name: "The Crypto Chronicles of Yonatan Sompolinsky",
-	link: "https://nrcrowningshield.medium.com/the-crypto-chronicles-of-yonatan-sompolinsky-a-retelling-by-captain-sats-452c73077388",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/medium.webp",
-	features: {
-		articles: true
-	}
-},
-{
-	name: "Kaspa Hub",
+	item: "Kaspa Hub",
 	link: "https://kaspahub.org/articles/",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspahub.webp",
-	features: {
-		articles: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspahub.webp"
 },
 {
-	name: "KaspHub",
+	item: "KaspHub",
 	link: "https://kasphub.com",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-		articles: true,
-		analytics: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "Kaspa Explorer",
+	item: "Kaspa Explorer",
 	link: "https://explorer.kaspa.org",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspaexplorer.webp",
-	features: {
-		blockExplorer: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspaexplorer.webp"
 },
 {
-	name: "Kas.fyi",
+	item: "Kas.fyi",
 	link: "https://kas.fyi",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasfyi.webp",
-	features: {
-		analytics: true,
-		blockExplorer: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasfyi.webp"
 },
 {
-	name: "Kaspalytics",
+	item: "Kaspalytics",
 	link: "https://www.kaspalytics.com",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-		analytics: true,
-		visualizer: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "Kaspa NG",
+	item: "Kaspa NG",
 	link: "https://kaspa-ng.org",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspang.webp",
-	features: {
-		visualizer: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspang.webp"
 },
 {
-	name: "KRC-20.org",
+	item: "KRC-20.org",
 	link: "https://krc-20.org",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-		analytics: true,
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "KatScan",
+	item: "KatScan",
 	link: "https://katscan.xyz",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/katscan.webp",
-	features: {
-		analytics: true,
-		blockExplorer: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/katscan.webp"
 },
 {
-	name: "Kaspa Node Map",
+	item: "Kaspa Node Map",
 	link: "https://nodes.kaspa.ws",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-		analytics: true,
-		visualizer: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "Kaspa Globe",
+	item: "Kaspa Globe",
 	link: "https://kaspaglo.be",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspaglobe.webp",
-	features: {
-		analytics: true,
-		visualizer: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspaglobe.webp"
 },
 {
-	name: "Kaspa Network Hashrate",
+	item: "Kaspa Network Hashrate",
 	link: "https://hashrate.kaspa.ws/",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-		analytics: true,
-		visualizer: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "Kasunder",
+	item: "Kasunder",
 	link: "https://kasunder.com",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasunder.webp",
-	features: {
-		analytics: true,
-		visualizer: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasunder.webp"
 },
 {
-	name: "Kaspa Graph Inspector",
+	item: "Kaspa Graph Inspector",
 	link: "https://kgi.kaspad.net",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-		visualizer: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "KasNodes",
+	item: "KasNodes",
 	link: "https://kasnodes.com",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-		analytics: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "Kaspa Insights",
+	item: "Kaspa Insights",
 	link: "https://www.kaspainsights.com",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspainsights.webp",
-	features: {
-		analytics: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspainsights.webp"
 },
 {
-	name: "Kaspa Rainbow Chart",
+	item: "Kaspa Rainbow Chart",
 	link: "https://www.kasparainbowchart.com",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasparainbowchart.webp",
-	features: {
-		analytics: true,
-		visualizer: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kasparainbowchart.webp"
 },
 {
-	name: "KasMap",
+	item: "KasMap",
 	link: "https://kasmap.xyz/",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-		visualizer: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "Kasplore",
+	item: "Kasplore",
 	link: "https://www.kasplore.com",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-		blockExplorer: true,
-		visualizer: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "Look into Kaspa",
+	item: "Look into Kaspa",
 	link: "https://www.lookintokaspa.com",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-		analytics: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "KaspaWave",
+	item: "KaspaWave",
 	link: "https://kaspawave.com",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-		analytics: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "KasView",
+	item: "KasView",
 	link: "https://kasview.netlify.app",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-		analytics: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "Kaspa vs. Bitcoin Miner Revenue Calculator",
+	item: "Kaspa vs. Bitcoin Miner Revenue Calculator",
 	link: "https://cryptoodie.github.io/KASPA-VS.-BITCOIN-MINER-REVENUE-/",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "Kaspa Breakeven Calculator",
+	item: "Kaspa Breakeven Calculator",
 	link: "https://kas-breakeven-calc.vercel.app",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "Kas Music 3D Visualizer",
+	item: "Kas Music 3D Visualizer",
 	link: "https://kas-music.web.app",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-		visualizer: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "Kaspa 10 BPS 3D Visualizer",
+	item: "Kaspa 10 BPS 3D Visualizer",
 	link: "https://kaspavisualizer.com",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-		visualizer: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "Kaspa GHOSTDAG Visualizer",
+	item: "Kaspa GHOSTDAG Visualizer",
 	link: "https://kaspa-gdpv.net",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-		visualizer: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "Kaspaspeed",
+	item: "Kaspaspeed",
 	link: "https://kaspaspeed.com/",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-		visualizer: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 },
 {
-	name: "Kaspa Network Visualizer",
+	item: "Kaspa Network Visualizer",
 	link: "https://macmachi.github.io/kaspa-network-visualizer",
-	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp",
-	features: {
-		visualizer: true
-	}
+	logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kaspa.webp"
 }
 ];
