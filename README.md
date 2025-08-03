@@ -1,3 +1,6 @@
+**Deprecated due to slow loading times despite using CDN links.  
+Using URLs is faster. Hosting on Cloudflare makes it even faster.**
+
 # Kaspa Data Directory
 A public, open-source list of structured Kaspa data designed for integration across apps and projects.
 
