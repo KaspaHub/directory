@@ -14,7 +14,7 @@ A public, open-source list of structured Kaspa data designed for integration acr
 - Enable diverse Kaspa ecosystem use cases
 
 ## Example how users.js is used for Kaspa Hub Donation Pages
-http://localhost/donations/?handle=KaspaHub
+https://kaspahub.org/donations/?handle=KaspaHub
 
 ## Contribute
 Fork → add or update entries → submit a pull request.  
