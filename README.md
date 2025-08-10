@@ -1,5 +1,4 @@
-# Kaspa Data Directory
-A public, open-source list of structured Kaspa data designed for integration across apps and projects.
+## Kaspa Data Directory - A public, open-source list of structured Kaspa data designed for integration across apps and projects.
 
 # Additions, Contributions, and Contributor Applications
 - Send us a DM on X: [https://x.com/KaspaHub](https://x.com/KaspaHub)
