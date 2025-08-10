@@ -1,4 +1,4 @@
-export const exchanges = [
+export const items = [
 {
 title: "Kraken",
 link: "https://www.kraken.com",
