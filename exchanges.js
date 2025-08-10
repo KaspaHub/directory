@@ -325,11 +325,6 @@ link: "https://www.kcex.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/kcex.webp"
 },
 {
-title: "Xeggex",
-link: "https://xeggex.com",
-logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/xeggex.webp"
-},
-{
 title: "HiBT",
 link: "https://hibt.com",
 logo: "https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/logos/hibt.webp"
