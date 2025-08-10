@@ -1,12 +1,12 @@
 export const items = [
 {
 x: "KaspaHub",
-wallet: "kaspa:qrv8305twny4434fjnsqvk2875tk3g27flz5akm49rzd7gpk0lrsus8y3ahwm",
+wallet: "kaspa:qpuj2l703xauvsk8z7n9repf79s590j3fh9u83m5yetfmt9k5km7zsp3mc3j5",
 domain: "kas-hub.kas"
 },
 {
 x: "Classicgyt",
-wallet: "kaspa:qq4pv3qv64jjlg9sz20vgm0g933u3kfqx46td248g92sl6sjhwywum304f5al"
+wallet: "kaspa:qrqg5eteekhucatdwz3xn4k76d70ykl4e3jnt88pe6dmfzjwv20gzcwjrwye6"
 },
 {
 x: "IzioDev",
