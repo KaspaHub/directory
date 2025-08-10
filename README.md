@@ -1,4 +1,4 @@
-**Deprecate.**
+**Deprecated.**
 
 # Kaspa Data Directory
 A public, open-source list of structured Kaspa data designed for integration across apps and projects.
