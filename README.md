@@ -12,8 +12,13 @@
 ## Example how users.js is used for Kaspa Hub Donation Pages
 - https://kaspahub.org/donations/?handle=KaspaHub
 
-
 ## Links
+- https://kaspahub.github.io/directory/users.js
+- https://kaspahub.github.io/directory/resources.js
+- https://kaspahub.github.io/directory/wallets.js
+- https://kaspahub.github.io/directory/exchanges.js
+
+## Cdn Links (faster loading times but slower updates)
 - https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/users.js
 - https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/resources.js
 - https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/wallets.js
