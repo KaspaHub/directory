@@ -1,4 +1,4 @@
-#Kaspa Data Directory
+# Kaspa Data Directory
 
 # Additions, Contributions, and Contributor Applications
 - Send us a DM on X: [https://x.com/KaspaHub](https://x.com/KaspaHub)
