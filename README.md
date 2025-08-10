@@ -1,7 +1,7 @@
 # Kaspa Data Directory
 
 # Additions, Contributions, and Contributor Applications
-- Send us a DM on X: [https://x.com/KaspaHub](https://x.com/KaspaHub)
+- Send a DM on X: [https://x.com/KaspaHub](https://x.com/KaspaHub)
 - Or fork this repository → add or update entries → submit a pull request.  
 
 ## Purpose
