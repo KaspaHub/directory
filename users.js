@@ -1,4 +1,4 @@
-export const users = [
+export const items = [
 {
 x: "KaspaHub",
 wallet: "kaspa:qrv8305twny4434fjnsqvk2875tk3g27flz5akm49rzd7gpk0lrsus8y3ahwm",
