@@ -1,4 +1,4 @@
-export const resources = [
+export const items = [
 {
 title: "PHANTOM GHOSTDAG Whitepaper",
 link: "https://eprint.iacr.org/2018/104.pdf",
