@@ -1,12 +1,10 @@
-**Deprecated due to slow loading times despite using CDN links.  
-Using regular URLs is faster. Hosting on Cloudflare makes it even faster.**
+**Deprecated due to slow loading times despite CDN link support.**
 
 # Kaspa Data Directory
 A public, open-source list of structured Kaspa data designed for integration across apps and projects.
 
 - https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/users.js
 - https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/resources.js
-- wallets, exchanges etc. (coming soon)
 
 ## Purpose
 - Provide a shared, maintainable data source  
