@@ -1,4 +1,4 @@
-export const wallets = [
+export const items = [
 {
 title: "Tangem",
 link: "https://tangem.com",
