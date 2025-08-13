@@ -26,5 +26,9 @@ domain: "pumpolinsky.kas"
 x: "coinathlete",
 wallet: "kaspa:qq6vraj894yeps2xltuzjllhdj85fsc5wfs4wz53hc4e4v0yhvtcx7s6e4fvr",
 domain: "coinathlete.kas"
+},
+{
+x: "ChadBallantyne",
+wallet: "kaspa:qp8zppfpwkat7c8ukp9g5uq44xk3ckcle3k6w0a4l28n8q7q9g4jj4glf8el2"
 }
 ];
