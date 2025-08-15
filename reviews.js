@@ -2,7 +2,7 @@ export const items = {
     "kaspahub.org": 1,
     "klearswap.com": 0,
     "dex.cc": -1,
-
+    
     "kraken.com": 1,
     "uphold.com": 1,
     "topperpay.com": 1,
@@ -16,7 +16,7 @@ export const items = {
     "changelly.com": 1,
     "coinw.com": 1,
     "changenow.io": 1,
-
+    
     "kaspa.org": 1,
     "kaspa.com": 1,
     "kasplex.org": 1,
