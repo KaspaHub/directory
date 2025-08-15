@@ -1,3 +1,4 @@
 export const items = {
-    "example.com": -1,
+    "kaspahub.org": 1,
+    "example.com": -1
 };
