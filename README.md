@@ -8,7 +8,8 @@ A public, open-source list of structured Kaspa data designed for integration acr
 - Simplify data management and backups  
 - Enable diverse Kaspa ecosystem use cases
 
-## Example how users.js is used for Kaspa Hub Donation Pages
+## Websites currently using this directory include:
+- https://kaspahub.org/reviews/
 - https://kaspahub.org/donations/?handle=KaspaHub
 
 ## Links
