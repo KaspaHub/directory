@@ -1,4 +1,5 @@
 export const items = {
+    "example.com": 2,
     "kaspahub.org": 1,
     "klearswap.com": 0,
     "dex.cc": -1,
