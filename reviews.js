@@ -52,4 +52,10 @@ export const items = {
 
 
 
+    "kaspavis.com": 1,
+    "schlangenreich.com": 1
+
+
+
+
 };
