@@ -52,8 +52,8 @@ export const items = {
 
 
 
-    "kaspavis.com": 1,
-    "schlangenreich.com": 1
+    "kaspavis.com": -2,
+    "schlangenreich.com": -2
 
 
 
