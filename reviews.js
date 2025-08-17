@@ -3,9 +3,10 @@ export const items = {
     "kaspahub.org": 1,
     "klearswap.com": 0,
     "dex.cc": -1,
+    "kastra.org": -2,
     
-    "kraken.com": 1,
-    "uphold.com": 1,
+    "kraken.com": 2,
+    "uphold.com": 2,
     "topperpay.com": 1,
     "neverless.com": 1,
     "bybit.com": 1,
@@ -46,5 +47,9 @@ export const items = {
     "kaspium.io": 1,
     "kastle.cc": 1,
     "kurncy.com": 1,
-    "kaspanet.io": 1
+    "kaspanet.io": 1,
+
+
+
+
 };
