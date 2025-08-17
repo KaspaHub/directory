@@ -5,8 +5,8 @@ export const items = {
     "dex.cc": -1,
     "kastra.org": -2,
     
-    "kraken.com": 2,
-    "uphold.com": 2,
+    "kraken.com": 1,
+    "uphold.com": 1,
     "topperpay.com": 1,
     "neverless.com": 1,
     "bybit.com": 1,
