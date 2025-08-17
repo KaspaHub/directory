@@ -18,6 +18,13 @@ export const items = {
     "changelly.com": 1,
     "coinw.com": 1,
     "changenow.io": 1,
+
+    "wirexapp.com": -1,
+    "tapbit.com": -1,
+    "bitmart.com": -1,
+    "exmo.com": -1,
+    "lbank.com": -1,
+    "weex.com": -1,
     
     "kaspa.org": 1,
     "kaspa.com": 1,
