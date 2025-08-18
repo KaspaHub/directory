@@ -19,15 +19,6 @@ export const items = {
     "coinw.com": 1,
     "changenow.io": 1,
 
-    "wirexapp.com": -1,
-    "tapbit.com": -1,
-    "bitmart.com": -1,
-    "exmo.com": -1,
-    "lbank.com": -1,
-    "weex.com": -1,
-    "big.one": -1,
-    "xeggex.com": -1,
-    "tradeogre.com": -1,
     
     "kaspa.org": 1,
     "kaspa.com": 1,
@@ -61,12 +52,19 @@ export const items = {
 
 
 
+    "wirexapp.com": -1,
+    "tapbit.com": -1,
+    "bitmart.com": -1,
+    "exmo.com": -1,
+    "lbank.com": -1,
+    "weex.com": -1,
+    "big.one": -1,
+    "xeggex.com": -2,
+    "tradeogre.com": -2,
+
 
     "probifi.market": -2,
     "kaspavis.com": -2,
     "schlangenreich.com": -2
-
-
-
 
 };
