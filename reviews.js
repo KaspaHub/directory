@@ -26,6 +26,8 @@ export const items = {
     "lbank.com": -1,
     "weex.com": -1,
     "big.one": -1,
+    "xeggex.com": -1,
+    "tradeogre.com": -1,
     
     "kaspa.org": 1,
     "kaspa.com": 1,
