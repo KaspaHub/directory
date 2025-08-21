@@ -52,6 +52,7 @@ export const items = {
 
 
 
+    "xt.com": -1,
     "wirexapp.com": -1,
     "tapbit.com": -1,
     "bitmart.com": -1,
@@ -59,6 +60,8 @@ export const items = {
     "lbank.com": -1,
     "weex.com": -1,
     "big.one": -1,
+    "hibit.app": -1,
+
     "xeggex.com": -2,
     "tradeogre.com": -2,
 
