@@ -1,6 +1,6 @@
 {
-  "kaspahub.org": [5, "Your gateway to the Kaspa ecosystem."],
-  "example.com": [4, "Example site for testing"],
+	"kaspahub.org": [5, "Your gateway to the Kaspa ecosystem."],
+	"example.com": [4, "Example site for testing"],
   "test.com": [-2, "Negative test entry"],
 
   "kaspa.org": [5],
