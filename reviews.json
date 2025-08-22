@@ -2,6 +2,7 @@
 	"kaspahub.org": [5, "Your gateway to the Kaspa ecosystem."],
 	"example.com": [4, "Example site for testing"],
 	"test.com": [-2, "Negative test entry"],
+	"slowlikebtc.com": [5, "$SLOW the official meme coin inspired by Yonatan’s pet turtle “Bitcoin” fully fair launched on Kaspa 🐢"],
 	
 	"kaspa.org": [5],
 	"kaspa.com": [5],
