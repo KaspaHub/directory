@@ -1,6 +1,7 @@
 # Additions, Contributions, and Contributor Applications
-- Send a direct message on X: [https://x.com/KaspaHub](https://x.com/KaspaHub)
-- Or fork this repository → add or update entries → submit a pull request.  
+- Create an issue on this repository to suggest additions or improvements.
+- Send a direct message on X: [https://x.com/KaspaHub](https://x.com/KaspaHub) to join as a contributor or suggest changes.
+- Or fork this repository → add or update entries → submit a pull request.
 
 ## Purpose
 A public, open-source list of structured Kaspa data designed for integration across apps and projects.
