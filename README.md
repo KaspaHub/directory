@@ -11,16 +11,9 @@ A public, open-source list of structured Kaspa data designed for integration acr
 
 ## Websites currently using this directory include:
 - https://kaspahub.org/reviews/
-- https://kaspahub.org/donations/?handle=KaspaHub
 
 ## Links
-- https://kaspahub.github.io/directory/users.js
-- https://kaspahub.github.io/directory/resources.js
-- https://kaspahub.github.io/directory/wallets.js
-- https://kaspahub.github.io/directory/exchanges.js
+- https://kaspahub.github.io/directory/reviews.json
 
 ## Cdn Links (faster loading times but slower updates)
-- https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/users.js
-- https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/resources.js
-- https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/wallets.js
-- https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/exchanges.js
+- https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/reviews.json
