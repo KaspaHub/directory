@@ -29,13 +29,13 @@ A public, open-source list of structured Kaspa data designed for integration acr
 
 ## Link examples:
 - https://kaspahub.github.io/directory/reviews.json
-- https://kaspahub.github.io/directory/tokens/SLOW/SLOW.png
-- https://kaspahub.github.io/directory/tokens/SLOW/SLOW.json
+- https://kaspahub.github.io/directory/krc20/SLOW/SLOW.png
+- https://kaspahub.github.io/directory/krc20/SLOW/SLOW.json
 
 ## Cdn Link examples (faster loading times but slower updates)
 - https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/reviews.json
-- https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/tokens/SLOW/SLOW.png
-- https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/tokens/SLOW/SLOW.json
+- https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/krc20/SLOW/SLOW.png
+- https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/krc20/SLOW/SLOW.json
 
 ## Pages or projects currently using this directory:
 - https://kaspahub.org/reviews/
