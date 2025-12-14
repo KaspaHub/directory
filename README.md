@@ -16,8 +16,8 @@ A public, open-source list of structured Kaspa data designed for integration acr
 - https://cdn.jsdelivr.net/gh/KaspaHub/directory@latest/tokens/SLOW/SLOW.png
 
 ## New Submissions, Updates
-- Submit your project on our [Discord](https://discord.gg/7umFvjcANE) server
 - Open a GitHub [issue](https://github.com/KaspaHub/directory/issues)
+- Submit your token in our [Discord](https://discord.gg/7umFvjcANE) server
 - Or fork this repository → add or update entries → submit a pull request.
 
 ## Contact Us/ Collaborator Applications
