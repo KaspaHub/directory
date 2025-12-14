@@ -24,6 +24,7 @@ A public, open-source list of structured Kaspa data designed for integration acr
 - Equal height and width dimensions.
 - Minimum size of 128 pixels and maximum size of 512 pixels.
 - Maximum file size of 256 kilobytes.
+- .png file format.
 
 ## Contact Us/ Collaborator Applications
 - **X**: [https://x.com/KaspaHub](https://x.com/KaspaHub)
