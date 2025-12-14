@@ -20,5 +20,10 @@ A public, open-source list of structured Kaspa data designed for integration acr
 - Submit your token in our [Discord](https://discord.gg/7umFvjcANE) server
 - Or fork this repository → add or update entries → submit a pull request.
 
+## Token Logo Submission Guidelines
+- Equal height and width dimensions.
+- Minimum size of 128 pixels and maximum size of 512 pixels.
+- Maximum file size of 256 kilobytes.
+
 ## Contact Us/ Collaborator Applications
 - **X**: [https://x.com/KaspaHub](https://x.com/KaspaHub)
