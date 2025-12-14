@@ -12,7 +12,7 @@ A public, open-source list of structured Kaspa data designed for integration acr
 ## Token Submission Guidelines
 ##### Logo TICKER.png:
 - Equal height and width dimensions.
-- Minimum size of 128 pixels and maximum size of 512 pixels.
+- Minimum size of 32 pixels and maximum size of 512 pixels.
 - Maximum file size of 256 kilobytes.
 - .png file format.
 
